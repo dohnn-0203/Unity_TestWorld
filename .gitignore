@@ -1,0 +1,17 @@
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+MemoryCaptures/
+Build/
+Builds/
+
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.user
+*.tmp
+*.booproj
